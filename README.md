@@ -9,7 +9,7 @@ To build the back end for an e-commerce website. Creating databases to help crea
  `MySql`
  
 ### Video
-https://watch.screencastify.com/v/uC3TyhytwK5elw0y8HB7
+https://watch.screencastify.com/v/VYQaRLTNsicaziqPHzJT
 
 ### Contribution
 Kylee Bijerring 👻
